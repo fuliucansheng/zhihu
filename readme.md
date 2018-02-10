@@ -1,4 +1,4 @@
-# 360机器写作与人类写作的巅峰对决
+# 知乎看山杯机器学习挑战赛
 Koala队(2/964)&nbsp;&nbsp;|&nbsp;&nbsp;[赛题链接](https://biendata.com/competition/zhihu/)
 
 #### 任务：
